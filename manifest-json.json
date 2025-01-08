@@ -1,0 +1,9 @@
+{
+    "id": "folder-indexer",
+    "name": "Folder Indexer",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Crea y actualiza notas índice para cada carpeta en el vault",
+    "author": "Lort",
+    "isDesktopOnly": false
+}
